@@ -10,8 +10,7 @@ export default function Ex04() {
       dateOfBirth: "28/02/1990",
       email: "nvana@gmail.com",
       address: "Ba Đình, Hà Nội",
-      status: true,
-    },
+
     {
       id: 2,
       fullName: "Trần Thị B",
